@@ -8,4 +8,4 @@ https://mohammadxxali.github.io/Flower-Store-Landing-Page/
 --------
 
 ### Project Screenshot
-![](screenshot)
+![](https://github.com/mohammadxxali/Flower-Store-Landing-Page/blob/main/Screenshot.png)
